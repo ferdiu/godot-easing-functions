@@ -48,6 +48,6 @@ this moves on the x axis an object from position 0.0 to position 100.0 in 3 seco
 
 ## Useful resources
 
-- Prewiev easing functions (https://easings.net/)
+- Preview easing functions (https://easings.net/)
 - Original Robert Penner's Easing Functions at http://robertpenner.com/easing/
 - Original Terms of Use: http://robertpenner.com/easing_terms_of_use.html
