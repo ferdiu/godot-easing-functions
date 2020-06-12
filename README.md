@@ -1,4 +1,4 @@
-# Easing functions for Godot (v3.2)
+# Easing functions for Godot (v3.2.x)
 
 ![LOGO](/icon.png)
 
@@ -10,7 +10,17 @@ Copy the script in your project resource folder and call them as:
 
 > Easing.[TYPE].[FUNC](t, b, c, d)
 
+or for `Vector2` object:
+
+> EasingV2.[TYPE].[FUNC](t, b, c, d)
+
+or for `Vector3` object:
+
+> EasingV3.[TYPE].[FUNC](t, b, c, d)
+
 inside your code.
+
+*Sorry about using different `class names` for each data type but GDScript does not support (at this time) Function Overloading.*
 
 example:
 
